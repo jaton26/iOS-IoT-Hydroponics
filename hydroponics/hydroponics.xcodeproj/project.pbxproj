@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE15B78E2655F9A100BECAF2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE15B78D2655F9A100BECAF2 /* Assets.xcassets */; };
 		EE3B250B2654A1C800B5F05F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3B250A2654A1C800B5F05F /* AppDelegate.swift */; };
 		EE3B250D2654A1C800B5F05F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3B250C2654A1C800B5F05F /* SceneDelegate.swift */; };
 		EE3B250F2654A1C800B5F05F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3B250E2654A1C800B5F05F /* ViewController.swift */; };
 		EE3B25122654A1C800B5F05F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE3B25102654A1C800B5F05F /* Main.storyboard */; };
-		EE3B25142654A1CC00B5F05F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE3B25132654A1CC00B5F05F /* Assets.xcassets */; };
 		EE3B25172654A1CC00B5F05F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE3B25152654A1CC00B5F05F /* LaunchScreen.storyboard */; };
 		EE3B25222654A1CD00B5F05F /* hydroponicsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3B25212654A1CD00B5F05F /* hydroponicsTests.swift */; };
 		EE3B252D2654A1CD00B5F05F /* hydroponicsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE3B252C2654A1CD00B5F05F /* hydroponicsUITests.swift */; };
@@ -35,12 +35,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EE15B78D2655F9A100BECAF2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../../Downloads/AppIcons (1)/Assets.xcassets"; sourceTree = "<group>"; };
 		EE3B25072654A1C800B5F05F /* hydroponics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hydroponics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE3B250A2654A1C800B5F05F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EE3B250C2654A1C800B5F05F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		EE3B250E2654A1C800B5F05F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EE3B25112654A1C800B5F05F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EE3B25132654A1CC00B5F05F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE3B25162654A1CC00B5F05F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE3B25182654A1CC00B5F05F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EE3B251D2654A1CD00B5F05F /* hydroponicsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hydroponicsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -104,7 +104,7 @@
 				EE3B253A2654A69000B5F05F /* Controller */,
 				EE3B250A2654A1C800B5F05F /* AppDelegate.swift */,
 				EE3B250C2654A1C800B5F05F /* SceneDelegate.swift */,
-				EE3B25132654A1CC00B5F05F /* Assets.xcassets */,
+				EE15B78D2655F9A100BECAF2 /* Assets.xcassets */,
 				EE3B25152654A1CC00B5F05F /* LaunchScreen.storyboard */,
 				EE3B25182654A1CC00B5F05F /* Info.plist */,
 			);
@@ -256,7 +256,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE3B25172654A1CC00B5F05F /* LaunchScreen.storyboard in Resources */,
-				EE3B25142654A1CC00B5F05F /* Assets.xcassets in Resources */,
+				EE15B78E2655F9A100BECAF2 /* Assets.xcassets in Resources */,
 				EE3B25122654A1C800B5F05F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
